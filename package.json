@@ -1,7 +1,7 @@
 {
   "name": "react-application",
   "version": "1.0.0",
-  "description": "",
+  "description": "devslopes udemy training",
   "main": "index.js",
   "scripts": {
     "start": "watchify src/main.jsx -v -t [ babelify --presets [ react ] ] -o public/js/main.js",
