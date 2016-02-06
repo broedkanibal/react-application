@@ -1,4 +1,4 @@
-# React Skeleton
+# React Application
 
 ## Installation
 

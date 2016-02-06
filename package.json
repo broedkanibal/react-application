@@ -1,5 +1,5 @@
 {
-  "name": "react-skeleton",
+  "name": "react-application",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/broedkanibal/react-skeleton.git"
+    "url": "git+https://github.com/broedkanibal/react-application.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/broedkanibal/react-skeleton/issues"
+    "url": "https://github.com/broedkanibal/react-application/issues"
   },
-  "homepage": "https://github.com/broedkanibal/react-skeleton#readme",
+  "homepage": "https://github.com/broedkanibal/react-application#readme",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
